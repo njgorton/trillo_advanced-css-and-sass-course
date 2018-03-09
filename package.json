@@ -19,9 +19,9 @@
   "author": "Nathaniel Gorton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/njgorton/trillo_advanced-css-and-sass-course.git/issues"
+    "url": "https://github.com/njgorton/trillo_advanced-css-and-sass-course/issues"
   },
-  "homepage": "https://github.com/njgorton/trillo_advanced-css-and-sass-course.git#readme",
+  "homepage": "https://github.com/njgorton/trillo_advanced-css-and-sass-course#readme",
   "dependencies": {
     "module": "0.0.x"
   },
